@@ -1,0 +1,2 @@
+// Original Arduino sketch replaced by ESP-IDF C app_main in src/main.c
+// Keep this file only if you want to preserve the Arduino version; otherwise it can be deleted.
